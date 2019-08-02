@@ -1,0 +1,6 @@
+.table .total {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+  border-top: 2px solid #23c6c8;
+  border-bottom: 2px solid #23c6c8;
+  font-weight: 700;
+}
